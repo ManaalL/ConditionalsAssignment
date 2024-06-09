@@ -1,9 +1,7 @@
 
 /**
- * Write a description of class ifsAssignment here.
- *
- * @author (your name)
- * @version (a version number or a date)
+ * @Manaal Lakhani
+ * @Apr 4, 2024
  */
 public class ifsAssignment
 {
